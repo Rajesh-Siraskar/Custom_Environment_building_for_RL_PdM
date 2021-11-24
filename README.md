@@ -1,1 +1,4 @@
-# RL_for_Predictive_Maintenance
+# Reinforcement Learning for Predictive Maintenance
+----------------------------------------------------
+
+
